@@ -1,0 +1,8 @@
+# Everything
+*
+
+# But not these files...
+!.gitignore
+!main.bib
+!main.tex
+!main.pdf
